@@ -1,8 +1,1 @@
-# Ignore all files
-*
-
-# Do not ignore C files
-!*.c
-
-# Do not ignore the .gitignore file itself
-!*.gitignore
+*.exe
