@@ -5,4 +5,4 @@
 !*.c
 
 # Do not ignore the .gitignore file itself
-!.gitignore
+!*.gitignore
